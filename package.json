@@ -15,7 +15,8 @@
         "vite": "^6.0"
     },
     "dependencies": {
-        "three": "^0.171.0"
+        "three": "^0.171.0",
+        "finnhub": "^1.2.19"
     }
     
 }
