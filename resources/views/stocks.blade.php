@@ -1,6 +1,7 @@
 
 @vite(['resources/js/stocks.js'])
 <x-head/>
+<x-navbar/>
 
 <body class="bg-slate-500">
 <div class = "p-3 bg-slate-800 text-slate-100">

@@ -122,10 +122,8 @@ function animate() {
     }
     player.position.x += px;
     player.position.y += py;
-    
     //cube.scale.set(width, height, deph);
-    
-    
+
 	renderer.render( scene, camera );
 
 }
